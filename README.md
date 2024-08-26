@@ -2,6 +2,8 @@
 Welcome to the Weather Application! This is a simple web app that provides real-time weather information for cities worldwide. 
 It features a clean and modern interface with a day/night mode toggle, and it uses the OpenWeatherMap API to fetch weather data.
 
+To see the Screenshot of the project, go to files and click on screenshot.Thanks
+
 Features
 Real-Time Weather Updates: Get current weather conditions, including temperature, humidity, and wind speed.
 City Search: Enter any city name to view its weather information.
